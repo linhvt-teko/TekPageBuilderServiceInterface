@@ -1,0 +1,22 @@
+{
+  "name": "TekPageBuilderServiceInterface",
+  "version": "0.1.0",
+  "summary": "A short description of TekPageBuilderServiceInterface.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/linhvt-teko/TekPageBuilderServiceInterface",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "linhvt-teko": "linh.vt@teko.vn"
+  },
+  "source": {
+    "git": "https://github.com/linhvt-teko/TekPageBuilderServiceInterface.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TekPageBuilderServiceInterface/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - TekPageBuilderServiceInterface (0.1.0)
+
+DEPENDENCIES:
+  - TekPageBuilderServiceInterface (from `../`)
+
+EXTERNAL SOURCES:
+  TekPageBuilderServiceInterface:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TekPageBuilderServiceInterface: f9028c2f8815dfac83cc8c4dd03ef35d373afc3f
+
+PODFILE CHECKSUM: e5d1360650a7b762b5b19556b16e1a53a2800f3a
+
+COCOAPODS: 1.9.2

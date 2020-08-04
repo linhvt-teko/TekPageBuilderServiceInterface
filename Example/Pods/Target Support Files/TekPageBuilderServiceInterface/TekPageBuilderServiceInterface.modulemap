@@ -1,0 +1,6 @@
+framework module TekPageBuilderServiceInterface {
+  umbrella header "TekPageBuilderServiceInterface-umbrella.h"
+
+  export *
+  module * { export * }
+}

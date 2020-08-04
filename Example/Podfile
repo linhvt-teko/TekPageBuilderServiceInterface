@@ -1,0 +1,6 @@
+use_frameworks!
+target 'TekPageBuilderServiceInterface_Tests' do
+  pod 'TekPageBuilderServiceInterface', :path => '../'
+  
+  
+end
